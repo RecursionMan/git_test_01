@@ -5,6 +5,8 @@ public class GitTest {
         System.out.println("hello git3!");
         System.out.println("hot_fix");
         System.out.println("hello git4!");
-        System.out.println("cold_fix");
+        System.out.println("cold_fix_push test");
+        
+        System.out.println("pull test");
     }
 }
