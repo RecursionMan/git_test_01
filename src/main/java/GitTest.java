@@ -10,5 +10,7 @@ public class GitTest {
         System.out.println("pull test");
         
         System.out.println("github pull test");
+        
+        System.out.println("try again");
     }
 }
